@@ -9,7 +9,7 @@ The algorithm builds as Finite-state machine, which then sends the search string
 The machine receives all queue lines symbols and clicking on the edges. 
 If the machine has come to the end position, the corresponding row of the dictionary is present in the line.
 ***
-Проект собран в IDE Eclipse. Используется Ant <http://ant.apache.org/>. В проекте присутсвуют файлы Unit тектов.
+Проект создан в IDE Eclipse. Используется Ant <http://ant.apache.org/>. В проекте присутсвуют файлы Unit теcтов.
 ***
 The project create by IDE Eclipse. For bild project you can use [Apache Ant](http://ant.apache.org/) <http://ant.apache.org/>
 ***
